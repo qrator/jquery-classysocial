@@ -176,7 +176,7 @@ ClassySocial = function(e) {
             name: "Pinterest"
         },
         linkedin: {
-            profile_url: "http://www.linkedin.com/profile/view?id=[HANDLE]",
+            profile_url: "http://www.linkedin.com/in/[HANDLE]",
             name: "LinkedIn"
         },
         dribbble: {
