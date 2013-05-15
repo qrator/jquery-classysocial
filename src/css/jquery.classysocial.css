@@ -86,6 +86,9 @@
 .classysocial.bubble .network_button.github {
     background: url(../images/bubble_github_share_button.png);
 }
+.classysocial.bubble .network_button.qrator {
+    background: url(../images/bubble_qrator_share_button.png);
+}
 .classysocial.bubble .network_button:hover {
     background-position: 0 -46px;
 }

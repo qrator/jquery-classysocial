@@ -206,6 +206,10 @@ ClassySocial = function(e) {
         github: {
             profile_url: "https://www.github.com/[HANDLE]",
             name: "GitHub"
+        },
+        qrator: {
+            profile_url: "http://qrator.com/profile/[HANDLE]",
+            name: "Qrator"
         }
     };
     initialize();
